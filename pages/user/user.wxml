@@ -1,0 +1,7 @@
+<!--pages/user/user.wxml-->
+<text>pages/user/user.wxml</text>
+<view>
+  <view>
+    <text>我的首页</text>
+  </view>
+</view>
